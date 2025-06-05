@@ -3,6 +3,9 @@
 This project provides a deep learning framework for volumetric (3D) paired MRI-to-CT image synthesis for brain images. It leverages fully volumetric GAN training,validation and test.
 
 > ⚠️ This project is under active development. To access full code or collaboration , please contact the author , mehrankhodadadzadeh90@gmail.com
+  ## 🖼️ Example Output
+
+![Example MRI-to-CT synthesis](test.png)
 
 ---
 
